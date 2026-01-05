@@ -17,7 +17,7 @@ This survey revisits 17 representative exploration-based subgraph matching metho
 
 ## Code references
 
-This repository builds upon selected open-source implementations from prior subgraph matching survey efforts, including:
+This repository builds upon open-source implementations from prior subgraph matching survey efforts, including:
 
 - [RapidsAtHKUST/SubgraphMatching](https://github.com/RapidsAtHKUST/SubgraphMatching)
 - [JackChuengQAQ/SubgraphMatchingSurvey](https://github.com/JackChuengQAQ/SubgraphMatchingSurvey)
